@@ -8,19 +8,42 @@ Welcome to the Sorting Algorithms Showcase!Explore the efficiency and elegance o
 ### 1. Selection Sort:
 [![Selection Sort](https://miro.medium.com/v2/resize:fit:600/format:webp/1*bmfRxyIQZEK0Iu5T6YV1sw.gif)](https://s-satsangi.medium.com/insertion-sort-selection-sort-and-bubble-sort-5eb16d55a4de)
 * Simple and intuitive, Selection Sort iterates through the array, selects the minimum element, and swaps it with the first unsorted element. Watch how it gradually assembles a sorted sequence.
+* **Time Complexity:** 
+* Best and Worst Time: ```O(n²)```
+* **Space Complexity:** 
+* ```Constant```
 ### 2. Insertion Sort:
 [![Insertion Sort](https://miro.medium.com/v2/resize:fit:600/1*bmfRxyIQZEK0Iu5T6YV1sw.gif)](https://s-satsangi.medium.com/insertion-sort-selection-sort-and-bubble-sort-5eb16d55a4de)
 * Learn the art of building a sorted array one element at a time with Insertion Sort. This algorithm maintains a sorted and an unsorted region, inserting elements in the correct order.
+* **Time Complexity:** 
+* Best Time: ```O(n)```
+* Worst Time:```O(n²)```
+* **Space Complexity:** 
+* ```Constant```
 ### 3. Bubble Sort:
 [![Bubble Sort](https://miro.medium.com/v2/resize:fit:640/format:webp/1*7seGXJi3te9beNfpAvFXEQ.gif)](https://s-satsangi.medium.com/insertion-sort-selection-sort-and-bubble-sort-5eb16d55a4de)
 * Dive into the world of Bubble Sort, where adjacent elements are compared and swapped if they are in the wrong order. Witness how the largest unsorted element "bubbles" to its correct position.
+* **Time Complexity:** 
+* Best Case Time: ```O(n)```
+* Average and Worst Case Time: ```O(n²)```
+* **Space Complexity:** 
+* `1`
 ### 4. Merge Sort:
 [![Merge](https://miro.medium.com/v2/resize:fit:600/format:webp/1*opwN0BhtH4zvPF697fPlow.gif)](https://medium.com/nerd-for-tech/3-fancy-sorts-d1da76689ed2)
 
 * Delve into the efficiency of Merge Sort, a divide-and-conquer algorithm that divides the array into halves, sorts each half, and then merges them back together. Witness its stable and consistent performance.
+* **Time Complexity:** 
+* Best Case,  Average Case and Worst Case: ```O(n * Log n)```
+* **Space Complexity:** 
+* ```O(n)```
 ### 5. Quick Sort:
 [![Quick](https://miro.medium.com/v2/resize:fit:600/format:webp/1*QlYf6-SE1Eq0_V-vKm1vtg.gif)](https://medium.com/nerd-for-tech/3-fancy-sorts-d1da76689ed2)
 * Experience the power of divide and conquer with Quick Sort. This algorithm selects a 'pivot' element and partitions the array into two sub-arrays, sorting them recursively.
+* **Time Complexity:** 
+* Worst Case Time: ```O(n²)```
+* Best Case and Average Time: ```O(n * Log n)```
+* **Space Complexity:** 
+* ```O(1) + O(N) auxiliary stack space.```
 ## Features:
 * **Visualizations:** Each algorithm includes visualizations, allowing you to step through the sorting process visually.
 
