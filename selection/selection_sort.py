@@ -1,4 +1,4 @@
-"""This is a module docstring."""
+"""Selection Sort"""
 from typing import List
 
 def selection_sort(arr:List[int])->List[int]:
