@@ -1,4 +1,4 @@
-# -Sorting-Algorithms-Showcase
+# Sorting-Algorithms-Showcase
 ## 🚀 Welcome to the Sorting Algorithms Showcase! 🚀
 Welcome to the Sorting Algorithms Showcase!Explore the efficiency and elegance of fundamental sorting algorithms through this educational repository. Whether you're a coding enthusiast, a student, or a seasoned developer, this collection provides a hands-on experience with classic sorting algorithms.
 ## Language
@@ -6,7 +6,7 @@ Welcome to the Sorting Algorithms Showcase!Explore the efficiency and elegance o
 * Python
 ## Algorithms Included:
 ### 1. Selection Sort:
-[![Gif](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/selection/Selection.gif)]
+![Gif](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/selection/Selection.gif)
 * Simple and intuitive, Selection Sort iterates through the array, selects the minimum element, and swaps it with the first unsorted element. Watch how it gradually assembles a sorted sequence.
 ### 2. Insertion Sort:
 [![](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/insertion/Insertion.gif)]
