@@ -6,8 +6,7 @@ Welcome to the Sorting Algorithms Showcase!Explore the efficiency and elegance o
 * Python
 ## Algorithms Included:
 ### 1. Selection Sort:
-[![Selection Sort](https://miro.medium.com/v2/resize:fit:600/format:webp/1*bmfRxyIQZEK0Iu5T6YV1sw.gif)]
-(https://s-satsangi.medium.com/insertion-sort-selection-sort-and-bubble-sort-5eb16d55a4de)
+[![Selection Sort](https://miro.medium.com/v2/resize:fit:600/format:webp/1*bmfRxyIQZEK0Iu5T6YV1sw.gif)](https://s-satsangi.medium.com/insertion-sort-selection-sort-and-bubble-sort-5eb16d55a4de)
 * Simple and intuitive, Selection Sort iterates through the array, selects the minimum element, and swaps it with the first unsorted element. Watch how it gradually assembles a sorted sequence.
 ### 2. Insertion Sort:
 [![Insertion Sort](https://miro.medium.com/v2/resize:fit:600/1*bmfRxyIQZEK0Iu5T6YV1sw.gif)](https://s-satsangi.medium.com/insertion-sort-selection-sort-and-bubble-sort-5eb16d55a4de)
