@@ -7,20 +7,20 @@ Welcome to the Sorting Algorithms Showcase!Explore the efficiency and elegance o
 ## Algorithms Included:
 ### 1. Selection Sort:
 [![Gif](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/selection/Selection.gif)]
-Simple and intuitive, Selection Sort iterates through the array, selects the minimum element, and swaps it with the first unsorted element. Watch how it gradually assembles a sorted sequence.
+* Simple and intuitive, Selection Sort iterates through the array, selects the minimum element, and swaps it with the first unsorted element. Watch how it gradually assembles a sorted sequence.
 ### 2. Insertion Sort:
 [![](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/insertion/Insertion.gif)]
-Learn the art of building a sorted array one element at a time with Insertion Sort. This algorithm maintains a sorted and an unsorted region, inserting elements in the correct order.
+* Learn the art of building a sorted array one element at a time with Insertion Sort. This algorithm maintains a sorted and an unsorted region, inserting elements in the correct order.
 ### 3. Bubble Sort:
 [![](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/bubble/Bubble.gif)]
-Dive into the world of Bubble Sort, where adjacent elements are compared and swapped if they are in the wrong order. Witness how the largest unsorted element "bubbles" to its correct position.
+*Dive into the world of Bubble Sort, where adjacent elements are compared and swapped if they are in the wrong order. Witness how the largest unsorted element "bubbles" to its correct position.
 ### 4. Merge Sort:
 [![](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/merge/Merge.gif)]
 
-Delve into the efficiency of Merge Sort, a divide-and-conquer algorithm that divides the array into halves, sorts each half, and then merges them back together. Witness its stable and consistent performance.
+* Delve into the efficiency of Merge Sort, a divide-and-conquer algorithm that divides the array into halves, sorts each half, and then merges them back together. Witness its stable and consistent performance.
 ### 5. Quick Sort:
 [![](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/quick/Quick.gif)]
-Experience the power of divide and conquer with Quick Sort. This algorithm selects a 'pivot' element and partitions the array into two sub-arrays, sorting them recursively.
+* Experience the power of divide and conquer with Quick Sort. This algorithm selects a 'pivot' element and partitions the array into two sub-arrays, sorting them recursively.
 ## Features:
 * **Visualizations:** Each algorithm includes visualizations, allowing you to step through the sorting process visually.
 
