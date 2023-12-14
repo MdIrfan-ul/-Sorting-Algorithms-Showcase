@@ -15,11 +15,11 @@ Welcome to the Sorting Algorithms Showcase!Explore the efficiency and elegance o
 [![](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/bubble/Bubble.gif)]
 *Dive into the world of Bubble Sort, where adjacent elements are compared and swapped if they are in the wrong order. Witness how the largest unsorted element "bubbles" to its correct position.
 ### 4. Merge Sort:
-[![Time Complexity:O(N log N)](https://miro.medium.com/v2/resize:fit:600/format:webp/1*opwN0BhtH4zvPF697fPlow.gif)]
+[![Merge](https://miro.medium.com/v2/resize:fit:600/format:webp/1*opwN0BhtH4zvPF697fPlow.gif)](https://medium.com/nerd-for-tech/3-fancy-sorts-d1da76689ed2)
 
 * Delve into the efficiency of Merge Sort, a divide-and-conquer algorithm that divides the array into halves, sorts each half, and then merges them back together. Witness its stable and consistent performance.
 ### 5. Quick Sort:
-[![](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/quick/Quick.gif)]
+[![Quick](https://miro.medium.com/v2/resize:fit:600/format:webp/1*QlYf6-SE1Eq0_V-vKm1vtg.gif)](https://medium.com/nerd-for-tech/3-fancy-sorts-d1da76689ed2)
 * Experience the power of divide and conquer with Quick Sort. This algorithm selects a 'pivot' element and partitions the array into two sub-arrays, sorting them recursively.
 ## Features:
 * **Visualizations:** Each algorithm includes visualizations, allowing you to step through the sorting process visually.
