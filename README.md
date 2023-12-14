@@ -6,13 +6,14 @@ Welcome to the Sorting Algorithms Showcase!Explore the efficiency and elegance o
 * Python
 ## Algorithms Included:
 ### 1. Selection Sort:
-![Gif](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/Selection.gif)
+![Selection Sort](https://miro.medium.com/v2/resize:fit:600/format:webp/1*bmfRxyIQZEK0Iu5T6YV1sw.gif)
+(https://s-satsangi.medium.com/insertion-sort-selection-sort-and-bubble-sort-5eb16d55a4de)
 * Simple and intuitive, Selection Sort iterates through the array, selects the minimum element, and swaps it with the first unsorted element. Watch how it gradually assembles a sorted sequence.
 ### 2. Insertion Sort:
-[![](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/insertion/Insertion.gif)]
+[![Insertion Sort](https://miro.medium.com/v2/resize:fit:600/1*bmfRxyIQZEK0Iu5T6YV1sw.gif)](https://s-satsangi.medium.com/insertion-sort-selection-sort-and-bubble-sort-5eb16d55a4de)
 * Learn the art of building a sorted array one element at a time with Insertion Sort. This algorithm maintains a sorted and an unsorted region, inserting elements in the correct order.
 ### 3. Bubble Sort:
-[![](https://github.com/MdIrfan-ul/Sorting-Algorithms-Showcase/bubble/Bubble.gif)]
+[![Bubble Sort](https://miro.medium.com/v2/resize:fit:640/format:webp/1*7seGXJi3te9beNfpAvFXEQ.gif)](https://s-satsangi.medium.com/insertion-sort-selection-sort-and-bubble-sort-5eb16d55a4de)
 *Dive into the world of Bubble Sort, where adjacent elements are compared and swapped if they are in the wrong order. Witness how the largest unsorted element "bubbles" to its correct position.
 ### 4. Merge Sort:
 [![Merge](https://miro.medium.com/v2/resize:fit:600/format:webp/1*opwN0BhtH4zvPF697fPlow.gif)](https://medium.com/nerd-for-tech/3-fancy-sorts-d1da76689ed2)
